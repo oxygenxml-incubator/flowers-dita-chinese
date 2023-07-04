@@ -42,12 +42,10 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="%E8%8A%B1%E6%9C%B5.xpr">
+    <projectTree name="flowers.xpr">
         <folder masterFiles="true" name="Main Files">
-            <file name="../flowers-ch-references-unescaped/%E8%8A%B1%E6%9C%B5.ditamap"/>
             <file name="%E8%8A%B1%E6%9C%B5.ditamap"/>
         </folder>
-        <folder path="../flowers-ch-references-unescaped/"/>
         <folder path="."/>
     </projectTree>
 </project>

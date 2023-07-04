@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xml:lang="zh-CN">
+  <title>种植花卉</title>
+  <topicref href="主题/介绍.dita">
+    <topicmeta>
+      <data name="wh-tile">
+        <data name="hide" value="yes"/>
+      </data>
+    </topicmeta>
+  </topicref>
+  <topicref href="主题/关心.dita">
+    <topicref href="任务/修剪.dita"/>
+    <topicref href="任务/花园准备.dita"/>
+  </topicref>
+  <topicref href="主题/指数.dita" collection-type="sequence">
+    <topicref href="概念/春天的花朵.dita" collection-type="sequence">
+      <topicref href="主题/花朵/虹膜.dita"/>
+      <topicref href="主题/花朵/雪花莲.dita"/>
+    </topicref>
+    <topicref href="概念/夏天的花.dita" collection-type="sequence">
+      <topicref href="主题/花朵/栀子花.dita"/>
+      <topicref href="主题/花朵/紫丁香.dita"/>
+    </topicref>
+    <topicref href="概念/秋天的花朵.dita" collection-type="sequence">
+      <topicref href="主题/花朵/菊花.dita"/>
+      <topicref href="主题/花朵/丹参.dita"/>
+    </topicref>
+    <topicref href="概念/冬天的花.dita" collection-type="sequence">
+      <topicref href="主题/花朵/非洲菊.dita"/>
+    </topicref>
+  </topicref>
+  <topichead navtitle="词汇表" id="glossary">
+    <topicmeta>
+      <shortdesc>最常用园艺术语的定义。</shortdesc>
+    </topicmeta>
+    <topicref navtitle="Genus" href="概念/词汇属.dita" keys="genus" print="yes"/>
+    <topicref navtitle="Pollination" href="概念/术语表%20授粉.dita" keys="pollination" print="yes"/>
+    <topicref navtitle="Sepal" href="概念/词汇表萼片.dita" keys="sepal" print="yes"/>
+    <topicref navtitle="Rhizome" href="概念/术语表%20根茎.dita" keys="rhizome" print="yes"/>
+    <topicref navtitle="Bulb" href="概念/术语表灯泡.dita" keys="bulb" print="yes"/>
+    <topicref navtitle="Cultivar" href="概念/术语表%20品种.dita" keys="cultivar" print="yes"/>
+    <topicref navtitle="Perennial" href="概念/术语表%20多年生植物.dita" keys="perennial" print="yes"/>
+    <topicref navtitle="Panicle" href="概念/术语表%20圆锥花序.dita" keys="panicle" print="yes"/>
+  </topichead>
+  <topicref href="主题/版权.dita">
+    <topicmeta>
+      <data name="wh-tile">
+        <data name="hide" value="yes"/>
+      </data>
+    </topicmeta>
+  </topicref>
+</map>

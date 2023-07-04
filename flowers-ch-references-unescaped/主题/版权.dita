@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="版权" xml:lang="zh-CN">
+    <title>版权</title>
+    <shortdesc>与法律相关的信息。</shortdesc>
+    <body>
+        <p>大部分信息来自于自由百科全书<xref href="http://www.wikipedia.com" format="html" scope="external"
+                >Wikipedia</xref>。</p>
+    </body>
+</topic>

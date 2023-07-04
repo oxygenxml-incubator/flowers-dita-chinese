@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="flowers.genus" xml:lang="zh-CN">
+    <glossterm>属</glossterm>
+    <glossdef>生物分类学中使用的低级分类阶层，用于分类生物和化石。其他众所周知的分类阶层包括域、界、门、纲、目、科和种，<term>属</term>位于科和种之间。属的学名可以称为通名：它总是大写的。</glossdef>
+</glossentry>
