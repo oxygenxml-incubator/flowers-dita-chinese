@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="care" xml:lang="zh-CN">
+<topic id="关心" xml:lang="zh-CN">
     <title>护理和准备</title>
     <shortdesc>在护理花园时，您需要适当地为植物提供营养，控制害虫和杂草。</shortdesc>
     <body>
         <p>在护理花园时，您需要适当地为植物提供营养，控制害虫和杂草。良好的土壤是成功园艺、景观和健康花卉的必备条件。您必须平衡土壤结构和营养物质，并调节pH值以满足植物的需求。<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="让我们添加有关肥料的信息。"?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="我们必须包括有关肥料对环境的影响的信息。" mid="1"?>
             最重要的是，记住许多花园之所以失败，是因为它们没有得到足够的关注。<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
         <p>
-            <table frame="none" id="table_zzp_5qw_zxb">
+            <table frame="none">
                 <title>花卉</title>
                 <tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171pt"/>

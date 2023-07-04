@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="chrysanthemum" xml:lang="zh-CN">
+<topic id="菊花" xml:lang="zh-CN">
     <title>菊花</title>
     <body>
         <p><i>来自维基百科，自由的百科全书。</i></p>
         <p><b>菊花</b><indexterm>花卉<indexterm>秋天<indexterm>菊花</indexterm></indexterm></indexterm>，通常被称为“菊花”，是菊科植物的一个属（<b>菊属</b>），大约有30种多年生开花植物，原产于亚洲和东北欧。</p>
-        <p><image href="../../图片/菊花.jpg" scale="200"
-                id="image_hnd_vrw_zxb"/></p>
+        <p><image href="../../图片/菊花.jpg" scale="200"/></p>
         <p>这个属曾经包括更多的物种，但几十年前被分成了几个属；属的命名一直存在争议，但1999年国际植物命名法规的裁决导致该属的定义物种被改为<b>菊花</b>，从而将经济重要的花卉菊花恢复到<b>菊属</b>。在属分裂之后但ICBN裁决之前，这些物种通常被归为<b>菊花属</b>。</p>
         <p><b>菊花</b>在中国作为开花草药栽培至少可以追溯到公元前15世纪。一个古老的中国城市被命名为“菊花城”。这种植物在重阳节期间特别重要。这种花在8世纪可能被引入日本，而日本的皇帝则将这种花作为他的官方印章。日本有一个庆祝这种花的“幸福节”。</p>
         <p>这种花在17世纪传入欧洲。林奈从希腊语单词<i>chrysous</i>（原始花的颜色为金色）和<i>anthemon</i>（意为花）中命名了它。</p>
         <p><b>菊花</b>分为两个基本群体，园艺耐寒和展览。园艺耐寒的菊花是多年生植物，能够在大多数北纬地区的土壤中越冬。展览品种通常不太坚固。园艺耐寒的菊花以其能够在没有任何机械辅助（例如支撑）的情况下产生大量小花朵并经受住风雨的能力而被定义，而展览品种则需要支撑，在相对干燥的凉爽环境中越冬，有时还需要加夜灯。</p>
     </body>
     <related-links>
-        <link href="丹参.dita#salvia"/>
+        <link href="丹参.dita#丹参"/>
     </related-links>
 </topic>

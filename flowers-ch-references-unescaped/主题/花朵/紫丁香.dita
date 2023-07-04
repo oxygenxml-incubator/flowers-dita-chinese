@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="lilac" xml:lang="zh-CN">
+<topic id="紫丁香" xml:lang="zh-CN">
  <title>紫丁香</title>
  <body>
   <p><i>来自维基百科，自由的百科全书。</i></p>
   <p><b>紫丁香</b>（<b>Syringa</b>）<indexterm>花卉<indexterm>夏季<indexterm>紫丁香</indexterm></indexterm></indexterm>是橄榄科（<b>Oleaceae</b>）中约20-25种开花植物的一个属，原产于欧洲和亚洲。</p>
-   <p><image href="../../图片/紫丁香.jpg" scale="75"
-    id="image_wg2_prw_zxb"/></p>
+   <p><image href="../../图片/紫丁香.jpg" scale="75"/></p>
   <p>它们是落叶灌木或小乔木，高2-10米，茎直径可达20-30厘米。叶子对生（偶尔三叶轮生），形状大多为心形或宽长披针形，但在一些物种中为羽状复叶（例如<b>S.
     protolaciniata</b>，<b>S.
     pinnatifolia</b>）。花在春季开放，每朵花直径为5-10毫米，有四裂花冠，花冠管狭长，长5-20毫米。通常花色为紫色（常为淡紫色或淡紫色），但也有白色和淡粉色。花生长在大的<b>总状花序</b>中，在几个物种中具有强烈的香气。开花时间因物种而异，介于春季中期至初夏之间。果实为干燥的褐色胶囊，在成熟时分裂成两个有翅的种子。</p>
@@ -14,6 +13,6 @@
   <p><b><?oxy_comment_start author="John" timestamp="20120510T114641+0300" comment="紫丁香需要什么样的生长条件？"?>紫丁香<?oxy_comment_end?></b>在旧枝上开花，如果不修剪，则会产生更多的花朵。如果修剪，则植物会产生快速生长的幼年营养生长，没有花朵，试图恢复被移除的树枝；修剪后的紫丁香通常在一到五年或更长时间内几乎不开花，直到新生长足够成熟开始开花。未修剪的紫丁香每年都能可靠地开花。尽管如此，普遍的谬论认为紫丁香应该经常修剪。如果需要修剪，则应在开花结束后立即进行，以便在形成下一年的花芽之前完成。紫丁香通常在略微碱性的土壤中生长得更好。紫丁香的木材质地致密，木纹紧密，极硬，是欧洲最密集的木材之一。边材通常为奶油色，心材有各种棕色和紫色。紫丁香木材传统上用于雕刻、乐器、刀柄等。在干燥时，木材有扭曲的倾向，并分裂成狭窄的条状物。</p>
  </body>
  <related-links>
-   <link href="栀子花.dita#gardenia"/>
+   <link href="栀子花.dita#栀子花"/>
  </related-links>
 </topic>

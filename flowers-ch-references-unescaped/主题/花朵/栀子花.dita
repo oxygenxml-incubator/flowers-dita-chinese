@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="gardenia" xml:lang="zh-CN">
+<topic id="栀子花" xml:lang="zh-CN">
     <title>栀子花</title>
     <body>
         <p><i>来自维基百科，自由的百科全书。</i></p>
         <p><b>栀子花</b><indexterm>花卉<indexterm>夏季<indexterm>栀子花</indexterm></indexterm></indexterm>是咖啡科中的一个属，约有250种开花植物，原产于非洲、南亚、澳大拉西亚和大洋洲的热带和亚热带地区。有几个物种生长在夏威夷，当地人称其为<i>na'u</i>或<i>nanu</i>。</p>
-        <p><image href="../../图片/栀子花.jpg"
-                id="image_mft_lrw_zxb"/></p>
+        <p><image href="../../图片/栀子花.jpg"/></p>
         <p>这个属的名称是由卡尔·林奈以亚历山大·加登博士（1730-1791），一位苏格兰出生的美国博物学家命名的。</p>
         <p>它们是常绿灌木和小乔木，高1-15米（3.3-49英尺）。叶子对生或3-4轮生，长5-50厘米（2.0-20英寸），宽3-25厘米（1.2-9.8英寸），深绿色，有光泽，质地坚韧。花单生或小聚生，白色或淡黄色，花冠基部呈管状，有5-12个裂片（花瓣），直径5-12厘米（2.0-4.7英寸）。开花期从中春到中夏，许多物种有强烈的香气。</p>
         <p><b>栀子花</b>植物因其花朵的强烈甜香而备受推崇，某些物种的花朵非常大。</p>
@@ -15,6 +14,6 @@
             </i>（中文）；花朵被用作黄色染料，用于服装和食品（包括韩国的绿豆凝胶，称为黄豆木）。</p>
     </body>
     <related-links>
-        <link href="紫丁香.dita#lilac"/>
+        <link href="紫丁香.dita#紫丁香"/>
     </related-links>
 </topic>
