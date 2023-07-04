@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="care" xml:lang="zh-CN">
+    <title>护理和准备</title>
+    <shortdesc>在护理花园时，您需要适当地为植物提供营养，控制害虫和杂草。</shortdesc>
+    <body>
+        <p>在护理花园时，您需要适当地为植物提供营养，控制害虫和杂草。良好的土壤是成功园艺、景观和健康花卉的必备条件。您必须平衡土壤结构和营养物质，并调节pH值以满足植物的需求。<?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="让我们添加有关肥料的信息。"?><?oxy_comment_start author="John" timestamp="20120510T121814+0300" comment="我们必须包括有关肥料对环境的影响的信息。" mid="1"?>
+            最重要的是，记住许多花园之所以失败，是因为它们没有得到足够的关注。<?oxy_comment_end?><?oxy_comment_end mid="1"?></p>
+        <p>
+            <table frame="none" id="table_zzp_5qw_zxb">
+                <title>花卉</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="171pt"/>
+                    <colspec colname="c2" colnum="2" colwidth="99pt"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="150pt"/>
+                    <thead>
+                        <row>
+                            <entry>花卉</entry>
+                            <entry>类型</entry>
+                            <entry>土壤</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>菊花</entry>
+                            <entry>多年生</entry>
+                            <entry>排水良好</entry>
+                        </row>
+                        <row>
+                            <entry>栀子花</entry>
+                            <entry>多年生</entry>
+                            <entry>酸性</entry>
+                        </row>
+                        <row>
+                            <entry>非洲菊</entry>
+                            <entry>一年生</entry>
+                            <entry>沙质、排水良好</entry>
+                        </row>
+                        <row>
+                            <entry>鸢尾花</entry>
+                            <entry>多年生</entry>
+                            <entry>稍微酸性</entry>
+                        </row>
+                        <row>
+                            <entry>丁香</entry>
+                            <entry>多年生</entry>
+                            <entry>碱性</entry>
+                        </row>
+                        <row>
+                            <entry>鼠尾草</entry>
+                            <entry>多年生</entry>
+                            <entry>一般</entry>
+                        </row>
+                        <row>
+                            <entry>雪花莲</entry>
+                            <entry>多年生</entry>
+                            <entry>富含腐殖质（富含<mathml>
+                                    <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+                                        <m:mi>C</m:mi>
+                                        <m:msub>
+                                            <m:mi>O</m:mi>
+                                            <m:mn>2</m:mn>
+                                        </m:msub>
+                                    </m:math>
+                                </mathml>）</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>

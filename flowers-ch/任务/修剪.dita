@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="prunning" xml:lang="zh-CN">
+    <title>修剪</title>
+    <taskbody>
+        <context id="context_qfs_wqw_zxb">
+            <p><b>修剪</b>是从植物中去除某些地上部分的过程；在园艺中，这个过程通常涉及从植物中去除病态、无效或其他不需要的部分。在自然界中，某些气象条件，如风、雪或海水雾，可以进行自然修剪过程。人工修剪的目的是通过控制或引导植物生长来塑造植物，保持植物的健康，或增加花卉和水果的产量或质量。</p>
+            <p>一般来说，伤口越小（剪掉的树枝越小），对树木的伤害就越小。因此，最好在树木幼年时进行形态修剪，而不是在成熟的树木上剪掉大树枝。</p>
+            <p><?oxy_comment_start author="John" timestamp="20120510T110753+0300" comment="应该向读者提供修剪所需工具的清单（如：绳锯、杆修剪器和剪枝器、折叠修剪器、便携式锯）"?>按照以下简单的步骤进行操作:<?oxy_comment_end?></p>
+        </context>
+        <steps id="steps_rfs_wqw_zxb">
+            <step>
+                <cmd>首先剪掉所有死枝。</cmd>
+            </step>
+            <step>
+                <cmd>去除所有缠绕或交叉的树枝。这样可以使空气流通，减少虫害和真菌感染。</cmd>
+            </step>
+            <step>
+                <cmd>慢慢来！舒适地工作，不要在剪枝时走捷径。使用质量好、锋利的工具。</cmd>
+            </step>
+            <step>
+                <cmd>清理区域。<?oxy_comment_start author="Mary" timestamp="20120510T110831+0300" comment="烧掉有害虫的树枝应在监督下进行。请提及此事。"?>烧掉所有有害虫的树枝<?oxy_comment_end?>。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

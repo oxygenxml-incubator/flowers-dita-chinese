@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="雪花莲" xml:lang="zh-CN">
+    <title>雪花莲</title>
+    <body>
+        <p><i>来自维基百科，自由的百科全书。</i></p>
+        <p><b>雪花莲</b><indexterm>花卉<indexterm>春天<indexterm>雪花莲</indexterm></indexterm></indexterm>是<b>石蒜科</b>中约20种植物的<b>属</b>名，雪花莲是春天最早开花的<b>球茎植物</b>之一，尽管某些物种在晚秋和冬季开花。</p>
+        <image href="../../%E5%9B%BE%E7%89%87/%E9%9B%AA%E8%8A%B1%E8%8E%B2.jpg" scale="75"
+            id="image_kvh_hrw_zxb"/>
+        <p><b>雪花莲</b>是<b>石蒜科</b>中最著名和最广泛分布的代表。它原产于欧洲的大片区域，从西部的比利牛斯山脉，穿过法国和德国，一直延伸到北部的波兰，以及意大利、希腊北部和欧洲土耳其。它已被引入并广泛自然化。虽然它经常被认为是英国本土的野花，或者是被罗马人带到不列颠群岛的，但它可能是在16世纪初引入的。</p>
+        <p>所有的<b>雪花莲</b>物种都是<b>多年生</b>的草本植物，它们从球茎中生长。花没有花瓣：它由六个<b>花被片</b>组成，外三个比内部系列更大和更凸出。一个重要的特征，有助于区分物种（并有助于确定杂交的亲本），是它们的“<i>叶序</i>”（新叶相对排列的方式）。这可以是“<i>平展</i>”、“<i>卷曲</i>”或“<i>卷绕</i>”。在<i>平展叶序</i>中，两个叶片在芽中和它们的出现时被压平在一起；卷曲的叶子也被压平在一起，但叶子的边缘被折叠回或有时卷曲；在<i>卷曲</i>植物中，一片叶子紧紧地包裹在另一片叶子周围，在芽中通常保持在叶子从土壤中出现的位置<?oxy_comment_start author="John" timestamp="20120510T122717+0300" comment="我们可以添加一句关于雪花莲繁殖的信息。"?>。<?oxy_comment_end?></p>
+    </body>
+    <related-links>
+        <link href="%E8%99%B9%E8%86%9C.dita#iris"/>
+    </related-links>
+</topic>
