@@ -4,9 +4,15 @@
         <input href="../flowers-ch/%E8%8A%B1%E6%9C%B5.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <publication id="pdf" transtype="pdf-css-html5"/>
     <deliverable id="flowers-ch-1703084880131" name="flowers-ch">
         <context idref="ELpsDSuYPYtsqZN"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
+    </deliverable>
+    <deliverable id="flowers-ch-pdf-1703084956723" name="flowers-ch-pdf">
+        <context idref="ELpsDSuYPYtsqZN"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
     </deliverable>
 </project>
