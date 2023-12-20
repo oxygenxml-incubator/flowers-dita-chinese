@@ -3,4 +3,10 @@
     <context id="ELpsDSuYPYtsqZN" name="flowers-ch">
         <input href="../flowers-ch/%E8%8A%B1%E6%9C%B5.ditamap"/>
     </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="flowers-ch-1703084880131" name="flowers-ch">
+        <context idref="ELpsDSuYPYtsqZN"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
