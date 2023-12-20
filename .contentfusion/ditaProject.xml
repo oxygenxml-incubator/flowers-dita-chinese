@@ -23,4 +23,9 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
+    <deliverable id="flowers-ch-references-unescaped-pdf-1703085316792" name="flowers-ch-references-unescaped-pdf">
+        <context idref="kHRChDENsVzWLtS"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
 </project>
