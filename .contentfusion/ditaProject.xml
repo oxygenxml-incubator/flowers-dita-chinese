@@ -18,4 +18,9 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
+    <deliverable id="flowers-ch-references-unescaped-1703085166177" name="flowers-ch-references-unescaped">
+        <context idref="kHRChDENsVzWLtS"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
