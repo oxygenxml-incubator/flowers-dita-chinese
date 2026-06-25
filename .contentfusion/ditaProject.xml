@@ -18,7 +18,9 @@
     <deliverable id="flowers-ch-pdf-1703084956723" name="flowers-ch-pdf">
         <context idref="ELpsDSuYPYtsqZN"/>
         <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <publication idref="pdf">
+            <param href="cf://templates/Oxygen" name="pdf.publishing.template"/>
+        </publication>
     </deliverable>
     <deliverable id="flowers-ch-references-unescaped-1703085166177" name="flowers-ch-references-unescaped">
         <context idref="kHRChDENsVzWLtS"/>
