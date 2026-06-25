@@ -43,7 +43,7 @@
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
-    <deliverable id="d-Flowers_test-1782376094680" name="Flowers test">
+    <deliverable id="d-Flowers_test-1782376094680" name="鲜花测试">
         <context idref="vTLbdvMDpnjEasT"/>
         <output href="pdf-output"/>
         <publication idref="pdf">
