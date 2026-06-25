@@ -29,6 +29,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp">
             <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
     <deliverable id="flowers-ch-references-unescaped-pdf-1703085316792" name="flowers-ch-references-unescaped-pdf">
